@@ -1,6 +1,6 @@
 # 📈 Meme Stock Sentiment Analyzer
 
-[**Meme Stock Sentiment Analyzer**](https://wsb-sentiment-classifier--polyshirobot.replit.app/) is an AI-powered web application for sentiment analysis of **WallStreetBets** posts and meme stocks using **Large Language Models (LLMs)**.
+**Meme Stock Sentiment Analyzer** is an AI-powered web application for sentiment analysis of **WallStreetBets** posts and meme stocks using **Large Language Models (LLMs)**.
 
 The application classifies Reddit posts as **Positive**(bullish), **Negative**(bearish), or **Neutral**, identifies mentioned meme stocks, and displays real-time stock information through an interactive web interface.
 
